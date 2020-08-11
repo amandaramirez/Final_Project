@@ -13,10 +13,22 @@ Here is some text. And I want to create a [link](https://wikipedia.com).
 
 ![Picture of a cat](http://placekitten.com/400/300)
 
-description 
 
-The formula I used was:
 
-```
-=VLOOKUP("SOMETHING", a2:157, 1, false)
+# Headline Here
 
+By Amanda Ramirez
+
+Describe the data, what's interesting about it
+
+Description of where you got the data
+
+What did you have to do to get it in a usable format?
+
+Link to .csv file so people can download it
+
+Data Visualization #1
+
+Data Visualization #2
+
+Data analysis: interesting, what it shows, types of pivot tables ran
