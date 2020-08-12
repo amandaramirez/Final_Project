@@ -18,7 +18,7 @@ I found this data from the Committee to Protect Journalists (CPJ). It had severa
 4. Verified the data. I wanted to make sure the data was accurate, so I looked up several journalists who had been killed to see if the information from news articles was consistent with the data presented in the spreadsheet.
 
 
-### Data analysis: interesting, what it shows, types of pivot tables ran
+### Data analysis
 
 There were several categories of data to analyze.
 
