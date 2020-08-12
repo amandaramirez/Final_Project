@@ -45,6 +45,7 @@ With this information, I was able to draw many conclusions using pivot tables. E
 
 ![year](https://media.journalism.berkeley.edu/upload/2020/08/1597195028916d37b.png)
 With this category, I asked: What years in the last three decades have the most killings of journalists? 
+
 Turns out that 2009 had the most killings - 68 in a single year. I thought this would be an interesting question to ask to see if there were any trends. Turns out, there does not appear to be a trend. The years with more deaths of journalists seem to correlate with years of unrest in the area, whether that be due to wars or economic crashes. In my pivot table, I selected on 'Year' as the row and 'COUNTA' as the value. Then I clicked 'descending' order sorted by 'COUNTA.' I copied and pasted the table into Data Wrapper and chose the appropriate chart tyle.
 
 
@@ -52,6 +53,7 @@ Turns out that 2009 had the most killings - 68 in a single year. I thought this 
 
 ![topcountries](https://media.journalism.berkeley.edu/upload/2020/08/159719551806d944e.png)
 For this category, I asked: What are the top countries that journalists killed in on assignment? 
+
 This was interesting to analyze because more deaths of journalists in a county seem to align with the unrest that country has faced in the last ~three decades. I was surprised that Iraq had vastly more than any other country. I thought it would be more spread out. I was also surprised that deaths of journalists on assignment happened in almost ever country at some point in the last 28 years. In my pivot table, I selected on 'Location' as the row and 'COUNTA' as the value. Then I clicked 'descending' order sorted by 'COUNTA.' I copied and pasted the first 10 values of the table into Data Wrapper and chose the appropriate chart tyle.
 
 
@@ -60,6 +62,7 @@ This was interesting to analyze because more deaths of journalists in a county s
 ![deathtype](https://media.journalism.berkeley.edu/upload/2020/08/1597195304e45b50d.png)
 
 For this category, I asked: What is the most common cause of death for journalists on the job? 
+
 The most common cause is murder. Analyzing this data made me realize how much of a threat journalists are in some countries. They can be targetted by the government or community groups. But it also made me realize that there is also a significant amount of deaths by dangerous assignment. For one data point in the USA (which does not have too many deaths of journalists), I researched that the woman in my data set was actually killed when an attacker broke into her newsroom. This was shocking because I had never realized that happened in this country or could even be a threat here. But of course it can. In my pivot table, I selected on 'Death Type' as the row and 'COUNTA' as the value. Then I clicked 'descending' order sorted by 'COUNTA.' I copied and pasted the table into Data Wrapper and chose the appropriate chart tyle.
 
 
