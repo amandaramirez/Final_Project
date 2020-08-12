@@ -1,11 +1,12 @@
-# Headline Here
+# The Dangers of Journalism: Death on Assignment
+## Analyzing the killings of journalists around the world
+### By Amanda Ramirez
 
-By Amanda Ramirez
+Journalism can be a dangerous job. To some, a free press be intimidating and journalists are seen as targets to violence. Even if the violence is not direct, pursing an assignment can also pose safety risks.  For this project, I was wondering about the circumstances of fallen journalists around the world. Some of the questions I asked were: Where and how did it happen? To whom? Is it common?
 
-Journalism can be a dangerous job. To some, a free press be intimidating, which subjects many journalists as a target to violence. Pursing an assignment can also pose safety risks.  
+![map](https://media.journalism.berkeley.edu/upload/2020/08/1597195418cf4e5b0.png)
 
-
-Describe the data, what's interesting about it
+I found this data from the Committee to Protect Journalists (CPJ) had sufficient information.
 
 Description of where you got the data
 
@@ -21,7 +22,7 @@ Data analysis: interesting, what it shows, types of pivot tables ran
 
 ![medium](https://media.journalism.berkeley.edu/upload/2020/08/159719536241a1308.png)
 
-![map](https://media.journalism.berkeley.edu/upload/2020/08/1597195418cf4e5b0.png)
+
 
 ![topcountries](https://media.journalism.berkeley.edu/upload/2020/08/159719551806d944e.png)
 
